@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 100vh;
+    width: 95vw;
+    background-size: cover;
+
+}
+
+.text-container {
+    padding: 30px;
+    height: 40vh;
+    text-align: center;
+}
+
+.sleepMusic-main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.sleepMusic-discription {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.bottom-card {
+    height: 60vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.bg-card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 25vh;
+    background-size: cover;
+}
+
+.NightIsland-main-heading {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 27px;
+}
+
+.moon-card-image {
+    height: 170px;
+    width: 300px;
+}
+
+.NightIsland-discription {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border: none;
+    border-radius: 30px;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 5px;
+    width: 100px;
+}
+
+
+/*  Music Details Pages */
+.Music-Details-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+    width: 95vw;
+}
+
+.musicDetails-image {
+    height: 30vh;
+    width: 95vw;
+}
+
+.buttom-section {
+    height: 70vh;
+    width: 94vw;
+}
+
+.musicDetails-text-container {
+    padding: 15px;
+    padding-bottom: 5px;
+    text-align: start;
+}
+
+.musicDetails-nightIsland-main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.musicDetails-nightIsland-Discription1 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.musicDetails-nightIsland-Discription2 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.Ralated-container {
+    padding-left: 15px;
+}
+
+.Ralated-main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.cards {
+    padding-top: 5px;
+    padding: 15px;
+}
+
+.Images {
+    height: 95px;
+    width: 130px;
+}
+
+.card-main-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.card-discription {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.card1 {
+    margin: 6px;
+
+}
+
+.back-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border: none;
+    border-radius: 30px;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 5px;
+    width: 100px;
+}
+
+.back-button-container {
+    padding-left: 15px;
+}
